@@ -4,9 +4,18 @@ Big Game Census Data Visualization
 Project Overview:
 This project is about creating a Big Game Census Data Visualization. The goal is to analyze and visualize census data related to big game populations and trends, providing clear insights for decision-making.
 
+data source: https://drive.google.com/file/d/19TY7wupudAq6KdLvkD1mzsBBtKZmBDZx/view
 
-The datasets have the following initial insights:
+Analysis and dashboard:
+Data Collection and Preparation:
+Cleaning and preprocessing of the data was done and the dataset was ready for analysis and visualization.
+Data Analysis:
+Exploratory data analysis (EDA) to uncover patterns and key insights from the dataset.
+Data Visualization:
+Created visual and informative dashboards using power BI.
 
+
+Initial insights:
 File 1 and File 2 (2016 and 2017 Census Data):
 Both contain population estimates for various cities and states in the United States.
 Columns include geographic identifiers (GEOID), city names, Census counts (2010), and annual population estimates from 2010 to 2017.
